@@ -1,4 +1,5 @@
 set paste
+set number
 """"
 " Vundle - packages control
 "
@@ -31,6 +32,8 @@ set paste
     let g:airline_theme='powerlineish'
     let g:airline_powerline_fonts = 1
 
+"    Bundle 'flazz/vim-colorschemes'
+"    Bundle 'desert-warm-256'
 
 """"
 " A Vim plugin which shows a git diff in the 'gutter' (sign column).
