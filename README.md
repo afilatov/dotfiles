@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-My dotfiles ot simplify environmet rollout
+My dotfiles to simplify environment rollout
